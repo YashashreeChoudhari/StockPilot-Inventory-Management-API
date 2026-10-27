@@ -1,0 +1,6 @@
+Django>=5.1,<6.0
+DjangoRESTFramework>=3.15
+DjangoRESTFrameworkSimpleJWT>=5.3
+DjangoFilter>=24.3
+DRFSpectacular>=0.28
+PythonDotenv>=1.0
